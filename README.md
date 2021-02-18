@@ -18,7 +18,7 @@ Thi is a command-line application that dynamically generates a professional READ
 
 
 ## Demo
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video]](Demo)
 
 ## Installation
 To run this project, install it locally using npm:

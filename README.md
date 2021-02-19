@@ -19,9 +19,9 @@ Thi is a command-line application that dynamically generates a professional READ
 ## Demo
 
 Screenshots of the code and terminal command 
-![image](./README-Generator/develop/Command.png)
+![image](./Develop/Command.png)
 
-![image](./README-Generator/develop/Code.png)
+![image](./Develop/Code.png)
 
 
  Click [here](https://drive.google.com/file/d/12F-nle1qWZo0fVoxwVZ7ttU55QRSgFNt/view) to watch the full demo.

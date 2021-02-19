@@ -13,12 +13,20 @@ Thi is a command-line application that dynamically generates a professional READ
 * [Test](#Test)
 * [Licesnse](#License)
 * [Questions](#Questions)
-* [Licesnse](#License)
 
 
 
 ## Demo
-[![Watch the video]](Demo)
+
+Screenshots of the code and terminal command 
+![Screenshot ](./develop/Command.png)
+
+![Screenshot ](./develop/Code.png)
+
+
+ Click [here](https://drive.google.com/file/d/12F-nle1qWZo0fVoxwVZ7ttU55QRSgFNt/view) to watch the full demo.
+
+
 
 ## Installation
 To run this project, install it locally using npm:

@@ -1,4 +1,4 @@
-# Sample project
+# sample project
   # Badge
   ![license](https://img.shields.io/badge/License-MIT-yellow.svg)
   # Description
@@ -16,7 +16,7 @@
   ## Description
   this project is a sample project
   ## Username
-  betielbetu
+  soanso
   ## Email
   soso@gmail.com
   ## Installation
